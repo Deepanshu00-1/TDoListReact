@@ -1,0 +1,86 @@
+.addedContent{
+    width: 23vw;
+    height: 74vh;
+    background-color: rgb(97, 255, 202);
+    margin-left: 1vw;
+    margin-top: 1vh;
+    border-radius: 2vw;
+    position: fixed;
+    font-family: "Mukta", sans-serif;
+}
+input{
+    height: 5vh;
+    width: 20vw;
+    border-radius: 0.5vw;
+    margin-top: 1vh;
+    margin-left: 1.5vw;
+    border: none;
+    margin-right: 2.7vw;
+    /* margin-top: 2vh; */
+}
+/* input:active{
+    border: 1px grey;
+} */
+button{
+    width: 20vw;
+    height: 5vh;
+    border-radius: 1vh;
+    margin-top: 1vh;
+    font-size: 2vh;
+    border: none;
+    margin-top: 6vh;
+    font-size: 2.5vh;
+}
+button:hover{
+    cursor: pointer;
+}
+.name{
+    font-size: 3vh;
+    color: rgb(70, 70, 70);
+    margin-right: 14vw;
+    
+}
+/* .formInput{
+    margin-top: 1vh;
+} */
+/* .formInput .name{
+    margin-top: 5vh;
+} */
+#first{
+    margin-top: 2vh;
+}
+.email{
+    font-size: 3vh;
+    color: rgb(70, 70, 70);
+    margin-right: 16vw;
+}
+.password{
+    font-size: 3vh;
+    color: rgb(70, 70, 70);
+    margin-right: 14vw;
+}
+.confirmPassword{
+    font-size: 3vh;
+    color: rgb(70, 70, 70);
+    margin-right: 11vw;
+
+}
+.cP{
+    width: 25vw;
+}
+.cPinput{
+    margin-right: 10vw;
+}
+/* .addedContent div{
+    margin: 0.5vh;
+} */
+small{
+    /* visibility: hidden; */
+    float: left;
+    margin-left: 2vw;
+    color: #E74C3C;
+    font-family: "Mukta", sans-serif;
+}
+#error{
+    visibility: hidden;
+}

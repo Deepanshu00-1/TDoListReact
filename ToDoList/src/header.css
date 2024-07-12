@@ -1,0 +1,14 @@
+.header{
+    border-radius: 1vw;
+    background-color: rgb(132, 212, 91);
+    padding: 10px 20px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: "Margarine", sans-serif;
+    justify-content: center;
+    margin-top: 1vh;
+    width: 70%;
+    margin-left: 3.5vw;
+}
